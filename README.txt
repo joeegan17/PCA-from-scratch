@@ -1,0 +1,1 @@
+MNIST dataset is available online, too large to upload to Github -- just used number 0, 6, 7
